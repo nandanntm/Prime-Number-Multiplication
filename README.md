@@ -5,7 +5,7 @@ Time Complexity Scale:
 To perform the prime number multiplication multiplication table requires O(n^2) time.
 
 
-To run the project:
+To setup in system for the project:
 
 -> Install leiningen software
 
