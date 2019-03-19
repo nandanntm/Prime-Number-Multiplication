@@ -1,7 +1,7 @@
 Prime-Number-Multiplication-Table
 Display first 10 prime number multiplication table
 
-Time Complexity Scale: To perform the prime number multiplication multiplication table requires O(n^2) time.
+Time Complexity Scale: To perform the prime number multiplication table requires O(n^2) time.
 
 To setup in system for the project:
 
