@@ -13,7 +13,11 @@ To setup in system for the project:
 
     1) To run the project : lein run
     
-          or to check particular n prime number multiplication table, run : lein run number
+          or To check particular n prime number multiplication table, 
+          
+            For example run : lein run 15 
+            
+            It will show the multiplication table of first 15 prime numbers
           
     2) To check test cases of the project, enter: lein test    
                             
